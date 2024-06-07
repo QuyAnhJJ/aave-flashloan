@@ -1,0 +1,40 @@
+{
+    "FLSources": [
+        {
+            "provider": "AAVE",
+            "version": 2,
+            "contract": "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
+            "FLSigs": [
+                "0xab9c4b5d"
+            ],
+            "FLTopics":[
+                "0x631042c832b07452973831137f2d73e395028b44b250dedc5abb0ee766e168ac"
+            ]
+        }
+    ],
+    "AAVE_CONTRACTS": {
+        "LendingPoolV2": {
+            "address": "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
+            "FLSig": "0xab9c4b5d"
+        }
+    },
+    "FutureStuff": {
+       "FLSourceV1": {
+            "provider": "AAVE",
+            "version": 1,
+            "contract": "0x398eC7346DcD622eDc5ae82352F02bE94C62d119",
+            "FLSigs": [
+                "0x1cff79cd",
+                "0x38c5c08e"
+            ],
+            "FLTopics":[
+                "0x5b8f46461c1dd69fb968f1a003acee221ea3e19540e350233b612ddb43433b55"
+            ]
+        },
+        "LendingPoolV1": {
+            "address": "0x398eC7346DcD622eDc5ae82352F02bE94C62d119",
+            "FLSig": "0x1cff79cd",
+            "FLSig2": "0x38c5c08e"
+        }
+    }
+}
